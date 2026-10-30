@@ -89,7 +89,7 @@ G F <BR>
 <hr>
 
 <hr>
-<h3>Sample Input</h3>
+<h3>Input</h3>
 <hr>
 5 6 <BR>
 0 1 <BR>
@@ -99,9 +99,10 @@ G F <BR>
 2 4 <BR>
 3 4 <BR>
 <hr>
-<h3>Sample Output</h3>
+<h3>Output</h3>
 <hr>
 ['0', '1', '2', '3', '4']
+<img width="1610" height="206" alt="image" src="https://github.com/user-attachments/assets/2491e043-8487-4746-b936-d4bd5e911079" />
 <hr>
 <h3>Result:</h3>
 <hr>
